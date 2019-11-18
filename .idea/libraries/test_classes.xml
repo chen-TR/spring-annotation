@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="test-classes">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/target/test-classes" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
